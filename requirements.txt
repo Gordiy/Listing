@@ -1,2 +1,0 @@
-binance-connector==3.6.0
-pytz==2023.3
